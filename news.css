@@ -19,3 +19,13 @@
             background-image: url("img/Plini-Impulse-Voices-Art.jpg");
             text-align: center;
         }
+        table {
+            width: 80%;
+            background-color: lightgrey;
+            width: auto;
+            border: 10px solid green;
+            padding: auto;
+            margin: auto;
+            color:black;
+            font-size:15px;
+        }
