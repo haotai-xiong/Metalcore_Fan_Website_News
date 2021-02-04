@@ -1,4 +1,4 @@
-h1 {
+        h1 {
             color:whitesmoke;
             text-shadow: 2px 2px 20px blueviolet;
             font-size: 3em;
@@ -14,4 +14,8 @@ h1 {
             padding: 15px;
             color:black;
             background-color: lightcyan;
+        }
+        body {
+            background-image: url("img/Plini-Impulse-Voices-Art.jpg");
+            text-align: center;
         }
