@@ -1,0 +1,35 @@
+h1 {
+            color:whitesmoke;
+            text-shadow: 2px 2px 20px blueviolet;
+            font-size: 3em;
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+        }
+        table {
+            color:antiquewhite;
+            width: 80%;
+            margin: auto;
+        }
+        body {
+            background-image: url("img/Plini-Impulse-Voices-Art.jpg");
+            text-align: center;
+        }
+        div {
+            background-color: lightgrey;
+            width: 300px;
+            border: 15px solid green;
+            padding: 50px;
+            margin: 20px;
+            color:black;
+            font-size:15px;
+        }
+        ul {
+            list-style:none;
+            margin:0;
+            padding-left: 0;
+        }
+        li {
+            display: inline-block;
+            padding: 15px;
+            color:black;
+            background-color: lightcyan;
+        }
