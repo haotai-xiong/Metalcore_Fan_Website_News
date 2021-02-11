@@ -2,6 +2,7 @@
             color:whitesmoke;
             text-shadow: 2px 2px 20px blueviolet;
             font-size: 3em;
+            text-align: center;
             font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
         }
         ul {
@@ -21,7 +22,6 @@
         }
         body {
             background-image: url("img/Plini-Impulse-Voices-Art.jpg");
-            text-align: center;
         }
         table {
             width: 80%;
