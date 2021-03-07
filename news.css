@@ -1,8 +1,10 @@
         h1 {
+            text-align: center;
             color:whitesmoke;
+            background-color: black;
+            width: auto;
             text-shadow: 2px 2px 20px blueviolet;
             font-size: 3em;
-            text-align: center;
             font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
         }
         ul {
